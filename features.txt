@@ -1,0 +1,30 @@
+== WHAT IS S.W.I.N.E. CP? ==
+It's a tiny improvement for a aging game still lacking a map editor, and now again a
+game server just like the original gamespy..
+
+
+== RELEASE 1 FEATURES ==
+@ no need for mod loader
+# need for mod loader
+
+@ 60fps videos
+# some tank improvements from "open digi" patch (his own, not extract of files and etc..)
+ (from this users.atw.hu/digi/... page)
+? current included map editor won't work...
++ Mod Loader by bads.tm (2nd gen), included in scripts so it autostarts !NOT YET INCLUDED
++ HD has different resoliutions
++ No crash patch by bads.tm (good for modders and in some cases...)
++ "Buying Pictures Pack" by Peter3334
++ Same/Simmilar tank propoties from digi http://digi.atw.hu/units.php
+
+== CONTRIBUTING ==
+Yes you can!
+
+== Members ==
+bads.tm
+steakhal
+
+
+== DEV ==
+Todo: .ini files in exe
+menu files in exe
